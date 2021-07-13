@@ -9,7 +9,7 @@
   "dependencies": {
     "@angular-devkit/architect": "github:angular/angular-devkit-architect-builds#e651ac715",
     "@angular-devkit/core": "github:angular/angular-devkit-core-builds#e651ac715",
-    "rxjs": "6.6.2"
+    "rxjs": "6.6.7"
   },
   "peerDependencies": {
     "webpack": "^4.6.0",
